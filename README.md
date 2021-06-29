@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jontydelan
-- 👀 I’m interested in everything in the domain of Finance, Data & Software Engineering.
+- 👀 I’m interested in everything in the space of Finance, Data & Software Engineering.
 - 🌱 I’m currently learning Software deployment.
 - 💞️ I’m looking to collaborate on Research projects in E-commers and Finance.
 
